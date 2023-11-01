@@ -14,7 +14,7 @@ body{
 
 background-image: url("rompededos.jpg");
 
-background-repeat: no-repeat;
+background-repeat: repeat;
 
 }
 
@@ -58,7 +58,7 @@ font-size: 40px;
 
 text-align: justify;
 
-color: brown;
+color: rgb(18, 238, 187);
 
  
 
